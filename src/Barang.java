@@ -6,7 +6,7 @@ public class Barang {
 
     // Konstruktor 
     public Barang(String kode, String nama, int harga, int stok) {
-        this.kode = kode; // 'this' merujuk ke properti objek, bukan parameter
+        this.kode = kode; //
         this.nama = nama;
         this.harga = harga;
         this.stok = stok;
